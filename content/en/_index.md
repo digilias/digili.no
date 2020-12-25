@@ -1,4 +1,8 @@
 ---
 title: "Digili AS"
 ---
-Digili provides technical expertise.
+
+# Hi!
+
+Digili can help you with Kubernetes, OpenShift, IoT, Apache Kafka and performance
+engineering.
