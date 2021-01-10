@@ -35,6 +35,6 @@ theme = "ananke"
     contentDir = "content/no"
     weight = 1
 
-  [languages.en]
-    contentDir = "content/en"
-    weight = 2
+  #[languages.en]
+  #  contentDir = "content/en"
+  #  weight = 2
