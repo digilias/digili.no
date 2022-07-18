@@ -15,6 +15,16 @@ theme = "ananke"
      url = "/about"
      weight = 1
    [[menu.main]]
+     identifier = "tech"
+     name = "Teknologi"
+     url = "/tech"
+     weight = 4
+   [[menu.main]]
+     identifier = "services"
+     name = "Tjenester"
+     url = "/services"
+     weight = 4
+   [[menu.main]]
      identifier = "training"
      name = "Rådgivning"
      url = "/training"
@@ -24,11 +34,6 @@ theme = "ananke"
      name = "Utvikling"
      url = "/development"
      weight = 3
-   [[menu.main]]
-     identifier = "operations"
-     name = "Drift"
-     url = "/operations"
-     weight = 4
 
 [languages]
   [languages.no]
