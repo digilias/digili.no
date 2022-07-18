@@ -8,4 +8,4 @@ Digili tilbyr tjenester innen programvare, maskinvare og arkitektur. Vi har troe
 
 Vi har lang erfaring med produkt og tjenesteutvikling, og kan hjelpe deg med å få oversikt over hvilke teknologier som kan passe til ditt behov, og bidra i utviklingsprosessen etter ønske.
 
-Vi tilbyr også noen backend-[tjenester](/services) som du kan prøve ut gratis!
+Vi tilbyr også noen [backend-tjenester](/services) som du kan prøve ut gratis!
