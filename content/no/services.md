@@ -3,9 +3,9 @@ title: "Digili AS"
 type: single
 ---
 
-# Selvbetjenete Tjenester (Software as a Service)
+# Tjenester 
 
-Vi tilbyr selvbetjeneste tjenester innen IoT:
+Vi tilbyr SaaS-tjenester (Software as a Service) innen IoT:
 
 * [Digili IoT Sky](https://iot.sky.digili.no)
 
