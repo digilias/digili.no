@@ -19,11 +19,11 @@ theme = "ananke"
      name = "Teknologi"
      url = "/tech"
      weight = 4
-   [[menu.main]]
-     identifier = "services"
-     name = "Tjenester"
-     url = "/services"
-     weight = 4
+#   [[menu.main]]
+#     identifier = "services"
+#     name = "Tjenester"
+#     url = "/services"
+#     weight = 4
    [[menu.main]]
      identifier = "training"
      name = "Rådgivning"
