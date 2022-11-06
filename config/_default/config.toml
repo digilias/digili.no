@@ -11,14 +11,14 @@ theme = "ananke"
 [menu]
    [[menu.main]]
      identifier = "about"
-     name = "Om Digili"
+     name = "Om Oss"
      url = "/about"
      weight = 1
-   [[menu.main]]
-     identifier = "tech"
-     name = "Teknologi"
-     url = "/tech"
-     weight = 4
+#   [[menu.main]]
+#     identifier = "tech"
+#     name = "Teknologi"
+#     url = "/tech"
+#     weight = 4
 #   [[menu.main]]
 #     identifier = "services"
 #     name = "Tjenester"
@@ -26,13 +26,18 @@ theme = "ananke"
 #     weight = 4
    [[menu.main]]
      identifier = "training"
-     name = "Rådgivning"
+     name = "Opplæring"
      url = "/training"
-     weight = 2
+     weight = 4
    [[menu.main]]
      identifier = "development"
-     name = "Utvikling"
+     name = "Programvare"
      url = "/development"
+     weight = 2
+   [[menu.main]]
+     identifier = "hardware"
+     name = "Maskinvare"
+     url = "/hardware"
      weight = 3
 
 [languages]

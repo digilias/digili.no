@@ -3,6 +3,10 @@ title: "Digili AS"
 type: single
 ---
 
-# Utvikling
+# Programvare
 
-Digili har inngående kunnskap til backend systemer og embedded systemer. Vi kan hjelpe din bedrift med å utvikle kritiske komponenter som krever høy ytelse og effektivitet.
+Digili kan hjelpe din bedrift med nyutvikling og viderutvikling av eksisterende programvare:
+
+* Integrering av eksisterende systemer med sikker tilkobling til skyen.
+* Programvare for enheter med krav til lavt batteriforbruk og sikker tilkobling.
+* Tjenester for sikker tilkobling av maskinvare til skyen.
