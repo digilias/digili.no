@@ -26,19 +26,19 @@ theme = "ananke"
 #     weight = 4
    [[menu.main]]
      identifier = "training"
-     name = "Opplæring"
+     name = "Rådgivning"
      url = "/training"
      weight = 4
    [[menu.main]]
      identifier = "development"
-     name = "Programvare"
+     name = "Produktutvikling"
      url = "/development"
      weight = 2
-   [[menu.main]]
-     identifier = "hardware"
-     name = "Maskinvare"
-     url = "/hardware"
-     weight = 3
+  # [[menu.main]]
+  #   identifier = "hardware"
+  #   name = "Maskinvare"
+  #   url = "/hardware"
+  #   weight = 3
 
 [languages]
   [languages.no]

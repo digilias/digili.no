@@ -4,8 +4,8 @@ title: "Digili AS"
 
 # Hei!
 
-Digili er et norsk selskap som tilbyr konsulenttjenester og produkter innen maskinvare og programvare for tingenes internett.
+Har du en idè til et produkt eller en tjeneste, men trenger hjelp til utførelse? Digili tilbyr rådgivning og prototyping av maskinvare og programvare. 
 
-Vi benytter åpne standarder og åpen kildekode, og har en langsiktig tilnærming til utvikling. Vi er opptatt av kvalitet og at det vi leverer enkelt kan vedlikeholdes og videreutvikles over tid.
+Vi har en langsiktig tilnærming og mål om at det vi leverer enkelt kan vedlikeholdes og viderutvikles over tid.
 
 [Ta kontakt](mailto:post@digili.no) for en prat da vel.

@@ -3,10 +3,12 @@ title: "Digili AS"
 type: single
 ---
 
-# Programvare
+# Produktutvikling
 
-Digili kan hjelpe din bedrift med nyutvikling og viderutvikling av eksisterende programvare:
+Digili kan hjelpe din bedrift med å realisere ideer!
 
-* Integrering av eksisterende systemer med sikker tilkobling til skyen.
-* Programvare for enheter med krav til lavt batteriforbruk og sikker tilkobling.
-* Tjenester for sikker tilkobling av maskinvare til skyen.
+* Design og prototyper av kretskort som enkelt kan utvides til storskala produksjon.
+
+* Programvare for mikrokontrollere og styringssystemer.
+
+* Sikker tilkobling av enheter mot skytjenester.

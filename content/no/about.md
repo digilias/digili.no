@@ -5,6 +5,6 @@ type: single
 
 # Om Digili
 
-Digili ble startet av Ulf Lilleengen, med over 10 års erfaring innen utvikling av systemer som behandler store datamengder, transport av data og integrasjon mellom systemer, og sikker tilkobling til skyen.
+Digili ble startet av Ulf Lilleengen, med over 10 års erfaring innen utvikling av produkter med høye krav til kvalitet, ytelse, sikkerhet og integrasjon mot andre systemer.
 
-Digili har tilbyr spesialkompetanse og dyp forståelse av kompliserte systemer og hvordan de henger sammen for å sørge for at det vi leverer er av god kvalitet.
+Vi benytter åpne standarder og åpen kildekode så mye vi kan, og har en langsiktig tilnærming til utvikling av systemer som kan viderutvikles over tid.

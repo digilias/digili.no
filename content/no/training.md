@@ -7,7 +7,8 @@ type: single
 
 Digili kan bistå med rådgivning og opplæring innen:
 
-* Utvikling med fri programvare og åpen kildekode.
-* Utvikling av systemer for behandling av store datamengder.
-* Utvikling av batteridrevne systemer.
-* Integrasjon og meldingssystemer (Apache Kafka, ActiveMQ, AMQP, MQTT)
+* Utvikling med fri programvare og åpen kildekode: hvordan bygge åpne miljøer som tiltrekker eksterne bidragsytere?
+
+* Utvikling med fokus på ytelse og skalerbarhet: hvordan planlegger du systemer som førger for at du kan håndtere utvidelser og nye forretningsområder?
+
+* Integrasjon og meldingssystemer: hvordan bygger du systemer som lett integreres med andre systemer?
