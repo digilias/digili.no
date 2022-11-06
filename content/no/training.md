@@ -5,4 +5,9 @@ type: single
 
 # Rådgivning
 
-Digili kan bistå med rådgivning og opplæring i moderne teknologi innen backend, Internet of Things og mikrokontrollere. Vi tilbyr opplæring innen Kubernetes, Apache Kafka, moderne utvikling på mikrokontrollere, og utviklingsmetodikk for åpen kildekode.
+Digili kan bistå med rådgivning og opplæring innen:
+
+* Utvikling med fri programvare og åpen kildekode.
+* Utvikling av systemer for behandling av store datamengder.
+* Utvikling av batteridrevne systemer.
+* Integrasjon og meldingssystemer (Apache Kafka, ActiveMQ, AMQP, MQTT)
