@@ -11,6 +11,10 @@ hugo -t ananke # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
+git checkout main
+
+echo -n digili.no > CNAME
+
 # Add changes to git.
 git add .
 
