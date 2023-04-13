@@ -1,5 +1,4 @@
 baseURL = "https://digilias.github.io/"
-languageCode = "en-us"
 title = "Digili AS"
 DefaultContentLanguage = "no"
 theme = "ananke"
@@ -8,43 +7,77 @@ theme = "ananke"
   custom_css = ["css/main.css"]
   site_logo = "/images/digili_logo.svg"
 
-[menu]
-   [[menu.main]]
-     identifier = "about"
-     name = "Om Oss"
-     url = "/about"
-     weight = 1
-#   [[menu.main]]
-#     identifier = "tech"
-#     name = "Teknologi"
-#     url = "/tech"
-#     weight = 4
-#   [[menu.main]]
-#     identifier = "services"
-#     name = "Tjenester"
-#     url = "/services"
-#     weight = 4
-   [[menu.main]]
-     identifier = "training"
-     name = "Rådgivning"
-     url = "/training"
-     weight = 4
-   [[menu.main]]
-     identifier = "development"
-     name = "Produktutvikling"
-     url = "/development"
-     weight = 2
-  # [[menu.main]]
-  #   identifier = "hardware"
-  #   name = "Maskinvare"
-  #   url = "/hardware"
-  #   weight = 3
-
 [languages]
   [languages.no]
+    languageCode = "no-NO"
+    languageName = "Norwegian"
     contentDir = "content/no"
     weight = 1
+    [languages.no.menu]
+       [[languages.no.menu.main]]
+         identifier = "about"
+         name = "Om Oss"
+         pageRef = "/about"
+         weight = 1
+    #   [[languages.no.menu.main]]
+    #     identifier = "tech"
+    #     name = "Teknologi"
+    #     url = "/tech"
+    #     weight = 4
+    #   [[languages.no.menu.main]]
+    #     identifier = "services"
+    #     name = "Tjenester"
+    #     url = "/services"
+    #     weight = 4
+       [[languages.no.menu.main]]
+         identifier = "training"
+         name = "Rådgivning"
+         pageRef = "/training"
+         weight = 4
+       [[languages.no.menu.main]]
+         identifier = "development"
+         name = "Produktutvikling"
+         pageRef = "/development"
+         weight = 2
+      # [[languages.no.menu.main]]
+      #   identifier = "hardware"
+      #   name = "Maskinvare"
+      #   url = "/hardware"
+      #   weight = 3
 
   [languages.en]
     contentDir = "content/en"
     weight = 2
+    languageCode = "en-US"
+    languageName = "English"
+    [languages.en.menu]
+       [[languages.en.menu.main]]
+         identifier = "about"
+         name = "About Us"
+         pageRef = "/about"
+         weight = 1
+    #   [[languages.en.menu.main]]
+    #     identifier = "tech"
+    #     name = "Technology"
+    #     pageRef = "/tech"
+    #     weight = 4
+    #   [[languages.en.menu.main]]
+    #     identifier = "services"
+    #     name = "Services"
+    #     pageRef = "/services"
+    #     weight = 4
+       [[languages.en.menu.main]]
+         identifier = "training"
+         name = "Consulting"
+         pageRef = "/training"
+         weight = 4
+       [[languages.en.menu.main]]
+         identifier = "development"
+         name = "Product Development"
+         pageRef = "/development"
+         weight = 2
+      # [[languages.en.menu.main]]
+      #   identifier = "hardware"
+      #   name = "Maskinvare"
+      #   url = "/hardware"
+      #   weight = 3
