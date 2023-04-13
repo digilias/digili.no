@@ -13,7 +13,7 @@ cd public
 
 git checkout main
 
-echo -n digili.no > CNAME
+echo digili.no > CNAME
 
 # Add changes to git.
 git add .
